@@ -1,0 +1,7 @@
+aryant@Aryants-MacBook-Pro week6 % 
+aryant@Aryants-MacBook-Pro week6 % python3 assignment2solution.py
+Enter location: Universidade Federal de Santa Catarina
+Retrieving http://py4e-data.dr-chuck.net/json?address=Universidade+Federal+de+Santa+Catarina&key=42
+Retrieved 2316 characters
+Place id :  ChIJp7yoBqs5J5URnQ9eOKG8BJk
+aryant@Aryants-MacBook-Pro week6 % 
